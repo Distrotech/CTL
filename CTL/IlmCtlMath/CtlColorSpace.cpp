@@ -61,6 +61,7 @@
 //
 //-----------------------------------------------------------------------------
 
+#include <string.h>
 #include <CtlColorSpace.h>
 
 using namespace Imath;

@@ -64,6 +64,7 @@
 #include <fstream>
 #include <algorithm>
 #include <cassert>
+#include <unistd.h>
 
 #ifdef WIN32
     #include <io.h>
